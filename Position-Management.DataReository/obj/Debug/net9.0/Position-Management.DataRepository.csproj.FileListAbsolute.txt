@@ -1,0 +1,12 @@
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\obj\Debug\net9.0\Position-Management.DataRepository.csproj.AssemblyReference.cache
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\obj\Debug\net9.0\Position-Management.DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\obj\Debug\net9.0\Position-Management.DataRepository.AssemblyInfoInputs.cache
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\obj\Debug\net9.0\Position-Management.DataRepository.AssemblyInfo.cs
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\obj\Debug\net9.0\Position-Management.DataRepository.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\bin\Debug\net9.0\Position-Management.DataRepository.deps.json
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\bin\Debug\net9.0\Position-Management.DataRepository.dll
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\bin\Debug\net9.0\Position-Management.DataRepository.pdb
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\obj\Debug\net9.0\Position-Management.DataRepository.dll
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\obj\Debug\net9.0\refint\Position-Management.DataRepository.dll
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\obj\Debug\net9.0\Position-Management.DataRepository.pdb
+C:\Users\Ritesh\source\repos\Position-Management\Position-Management.DataReository\obj\Debug\net9.0\ref\Position-Management.DataRepository.dll

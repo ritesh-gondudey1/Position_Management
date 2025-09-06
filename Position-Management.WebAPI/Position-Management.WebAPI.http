@@ -1,0 +1,6 @@
+@Position_Management.WebAPI_HostAddress = http://localhost:5080
+
+GET {{Position_Management.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
